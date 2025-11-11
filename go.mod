@@ -1,6 +1,6 @@
 module github.com/elastic/cloud-on-k8s/v2
 
-go 1.24.6
+go 1.25.2
 
 require (
 	dario.cat/mergo v1.0.0

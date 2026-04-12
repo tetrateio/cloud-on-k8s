@@ -1,5 +1,5 @@
 # Build the operator binary
-FROM docker.io/library/golang:1.25.8 as builder
+FROM docker.io/library/golang:1.25.9 as builder
 
 ARG VERSION
 ARG SHA1
